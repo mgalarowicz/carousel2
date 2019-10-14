@@ -1,0 +1,48 @@
+p {
+    margin-bottom: 20px;
+  }
+
+  .content {
+    background-color: white;
+    padding: 10px;
+  }
+  
+  .button {
+    margin: 10px 0 0;
+    background-color: black;
+    color: white;
+    padding: 5px;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 100%;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  .header h1 {
+    line-height: 80px;
+  }
+  
+  .nav {
+    line-height: 25px;
+    list-style: none;
+  }
+  .nav .item {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .main {
+    min-height: calc(100% - 290px);
+    padding: 40px 10px;
+  }
+  
+  .footer {
+    text-align: center;
+    line-height: 30px;
+    padding: 20px 0;
+  }
